@@ -5,11 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasindra123&label=Profile%20views&color=0e75b6&style=flat" alt="sasindra123" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce Website using Django Framework](https://github.com/Sasindra123/smartbuy-django)
+- 🔭 Here's my smartbuy ecommerce project - [E-commerce Website using Django Framework](https://github.com/Sasindra123/smartbuy-django)
 
-- 🌱 I’m currently learning **Django Framework**
-
-- 📫 How to reach me **https://github.com/Sasindra123/sasindra.github.io**
+- 📫 How to reach me **https://my-portfolio-nine-rose-63.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
